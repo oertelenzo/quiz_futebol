@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    box-shadow: 0 0 10px #aaa;
+  }
+  
+  h1 {
+    text-align: center;
+    color: #28a745;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .options {
+    margin-top: 10px;
+  }
+  
+  .options label {
+    display: block;
+    margin-bottom: 5px;
+    cursor: pointer;
+  }
+  
+  #submit {
+    padding: 10px 20px;
+    background-color: #28a745;
+    border: none;
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  #feedback {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
+  #score {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 30px;
+  }
+  
